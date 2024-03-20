@@ -30,8 +30,7 @@ To automate the loan eligibility process based on the customer detail provided w
 </table>
 
 <h3> Dataset File Given </h3>
-* [Credit_Risk_Train_Data](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Datasets/Credit_Risk_Train_Data.csv)
-* [Credit_Risk_Test_Data](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Datasets/Credit_Risk_Test_Data.csv)
+* [Credit_Risk_Data](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
   
 
  <h2>Index</h2>
@@ -44,3 +43,4 @@ To automate the loan eligibility process based on the customer detail provided w
  - [SVM Scatter Plot with Hyperplane](#Hyperplane_Plot)
 
 <a id="head"></a>
+
